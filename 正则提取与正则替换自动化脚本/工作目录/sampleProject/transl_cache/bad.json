@@ -1,0 +1,24 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "身を任せる",
+        "post_jp": "身を任せる",
+        "pre_zh": "尽情放松",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "尽情放松"
+    },
+    {
+        "index": 2,
+        "name": "",
+        "pre_jp": "意地でも拒む",
+        "post_jp": "意地でも拒む",
+        "pre_zh": "无论如何拒绝",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "无论如何拒绝"
+    }
+]

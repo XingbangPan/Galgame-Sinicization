@@ -1,0 +1,90 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "「たしかに。考えてみれば黒木さんらしいね」",
+        "post_jp": "たしかに。考えてみれば黒木さんらしいね",
+        "pre_zh": "确实。仔细想想，这很像黑木的风格呢",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「确实。仔细想想，这很像黑木的风格呢」"
+    },
+    {
+        "index": 2,
+        "name": "",
+        "pre_jp": "「それはそれで、わかるような気もするけど……」",
+        "post_jp": "それはそれで、わかるような気もするけど……",
+        "pre_zh": "这样一来，我也能理解了……",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「这样一来，我也能理解了……」"
+    },
+    {
+        "index": 3,
+        "name": "",
+        "pre_jp": "正直に答える",
+        "post_jp": "正直に答える",
+        "pre_zh": "坦白回答",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "坦白回答"
+    },
+    {
+        "index": 4,
+        "name": "",
+        "pre_jp": "これ以上の詮索は控える",
+        "post_jp": "これ以上の詮索は控える",
+        "pre_zh": "不再深究了",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "不再深究了"
+    },
+    {
+        "index": 5,
+        "name": "",
+        "pre_jp": "「終わったことだとは思わないから」",
+        "post_jp": "終わったことだとは思わないから",
+        "pre_zh": "我并不认为这已经结束了",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「我并不认为这已经结束了」"
+    },
+    {
+        "index": 6,
+        "name": "",
+        "pre_jp": "「黒木さんのことをもっと知りたくて」",
+        "post_jp": "黒木さんのことをもっと知りたくて",
+        "pre_zh": "我想更多地了解黑木",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「我想更多地了解黑木」"
+    },
+    {
+        "index": 7,
+        "name": "",
+        "pre_jp": "踏み込んで尋ねる",
+        "post_jp": "踏み込んで尋ねる",
+        "pre_zh": "深入询问",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "深入询问"
+    },
+    {
+        "index": 8,
+        "name": "",
+        "pre_jp": "黙っている",
+        "post_jp": "黙っている",
+        "pre_zh": "保持沉默",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "保持沉默"
+    }
+]

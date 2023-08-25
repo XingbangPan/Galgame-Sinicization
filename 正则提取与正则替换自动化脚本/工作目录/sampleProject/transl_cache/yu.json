@@ -1,0 +1,112 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "「どうしてそんなことをするんですか？」",
+        "post_jp": "どうしてそんなことをするんですか？",
+        "pre_zh": "为什么要做那种事？",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「为什么要做那种事？」"
+    },
+    {
+        "index": 2,
+        "name": "",
+        "pre_jp": "「センパイは本当に男が好きなんですね」",
+        "post_jp": "センパイは本当に男が好きなんですね",
+        "pre_zh": "前辈真的喜欢男生呢",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「前辈真的喜欢男生呢」"
+    },
+    {
+        "index": 3,
+        "name": "",
+        "pre_jp": "「もっと相手の気持ちを考えてあげるべきだ」",
+        "post_jp": "もっと相手の気持ちを考えてあげるべきだ",
+        "pre_zh": "应该更多考虑对方的感受",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「应该更多考虑对方的感受」"
+    },
+    {
+        "index": 4,
+        "name": "",
+        "pre_jp": "「もっとなにか、別な事情があるような気がして」",
+        "post_jp": "もっとなにか、別な事情があるような気がして",
+        "pre_zh": "感觉还有其他原因",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「感觉还有其他原因」"
+    },
+    {
+        "index": 5,
+        "name": "",
+        "pre_jp": "包容力があっていざというとき頼れる相手",
+        "post_jp": "包容力があっていざというとき頼れる相手",
+        "pre_zh": "包容力强，需要时可以依靠的伙伴",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "包容力强，需要时可以依靠的伙伴"
+    },
+    {
+        "index": 6,
+        "name": "",
+        "pre_jp": "対等な目線で自由にものが言い合える相手",
+        "post_jp": "対等な目線で自由にものが言い合える相手",
+        "pre_zh": "可以自由地以平等的眼光交流的伙伴",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "可以自由地以平等的眼光交流的伙伴"
+    },
+    {
+        "index": 7,
+        "name": "",
+        "pre_jp": "たとえば自分のような……",
+        "post_jp": "たとえば自分のような……",
+        "pre_zh": "比如像我这样的……",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "比如像我这样的……"
+    },
+    {
+        "index": 8,
+        "name": "",
+        "pre_jp": "「生き方に迷いのないところ」",
+        "post_jp": "生き方に迷いのないところ",
+        "pre_zh": "没有迷茫的生活方式",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「没有迷茫的生活方式」"
+    },
+    {
+        "index": 9,
+        "name": "",
+        "pre_jp": "「フットワークの軽いところ」",
+        "post_jp": "フットワークの軽いところ",
+        "pre_zh": "行动灵活的地方",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「行动灵活的地方」"
+    },
+    {
+        "index": 10,
+        "name": "",
+        "pre_jp": "「つかみ所のないところ」",
+        "post_jp": "つかみ所のないところ",
+        "pre_zh": "没有抓手的地方",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "「没有抓手的地方」"
+    }
+]

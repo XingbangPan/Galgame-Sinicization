@@ -1,0 +1,79 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "変態なのだと告白する",
+        "post_jp": "変態なのだと告白する",
+        "pre_zh": "我是变态告白",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "我是变态告白"
+    },
+    {
+        "index": 2,
+        "name": "",
+        "pre_jp": "未来からきたのだと告白する",
+        "post_jp": "未来からきたのだと告白する",
+        "pre_zh": "我是来自未来的告白",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "我是来自未来的告白"
+    },
+    {
+        "index": 3,
+        "name": "",
+        "pre_jp": "ずっと好きでしたと告白する",
+        "post_jp": "ずっと好きでしたと告白する",
+        "pre_zh": "我一直喜欢你的告白",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "我一直喜欢你的告白"
+    },
+    {
+        "index": 4,
+        "name": "",
+        "pre_jp": "好みだと答える",
+        "post_jp": "好みだと答える",
+        "pre_zh": "回答是我的菜",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "回答是我的菜"
+    },
+    {
+        "index": 5,
+        "name": "",
+        "pre_jp": "しょんべんくさいガキは嫌だと答える",
+        "post_jp": "しょんべんくさいガキは嫌だと答える",
+        "pre_zh": "回答是讨厌脏兮兮的孩子",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "回答是讨厌脏兮兮的孩子"
+    },
+    {
+        "index": 6,
+        "name": "",
+        "pre_jp": "会長のいるＦ組へ",
+        "post_jp": "会長のいるＦ組へ",
+        "pre_zh": "去有会长的F班",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "去有会长的F班"
+    },
+    {
+        "index": 7,
+        "name": "",
+        "pre_jp": "副会長のいるＡ組へ",
+        "post_jp": "副会長のいるＡ組へ",
+        "pre_zh": "去有副会长的A班",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "去有副会长的A班"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "index": 1,
+        "name": "",
+        "pre_jp": "迷いなく頷く",
+        "post_jp": "迷いなく頷く",
+        "pre_zh": "毫不犹豫地点头",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "毫不犹豫地点头"
+    },
+    {
+        "index": 2,
+        "name": "",
+        "pre_jp": "すぐには答えられない",
+        "post_jp": "すぐには答えられない",
+        "pre_zh": "不能立即回答",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "不能立即回答"
+    },
+    {
+        "index": 3,
+        "name": "",
+        "pre_jp": "迷いを断ち切り、頷く",
+        "post_jp": "迷いを断ち切り、頷く",
+        "pre_zh": "摆脱迷茫，点头",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "摆脱迷茫，点头"
+    },
+    {
+        "index": 4,
+        "name": "",
+        "pre_jp": "今はまだ答えられない",
+        "post_jp": "今はまだ答えられない",
+        "pre_zh": "现在还无法回答",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "现在还无法回答"
+    },
+    {
+        "index": 5,
+        "name": "",
+        "pre_jp": "オープニングから始める",
+        "post_jp": "オープニングから始める",
+        "pre_zh": "从开场开始",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "从开场开始"
+    },
+    {
+        "index": 6,
+        "name": "",
+        "pre_jp": "共通パートをスキップする",
+        "post_jp": "共通パートをスキップする",
+        "pre_zh": "跳过共通部分",
+        "proofread_zh": "",
+        "trans_by": "GPT-3.5",
+        "proofread_by": "",
+        "post_zh_preview": "跳过共通部分"
+    }
+]
